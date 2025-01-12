@@ -8,8 +8,4 @@
     <Platforms>AnyCPU;x86</Platforms>
   </PropertyGroup>
 
-  <ItemGroup>
-    <ProjectReference Include="..\RedFox\RedFox.csproj" />
-  </ItemGroup>
-
 </Project>
